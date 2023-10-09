@@ -1,0 +1,392 @@
+* {
+    background-color: black}
+
+.i:hover {
+color :blue :
+} 
+
+.info{
+    color: rgb(79, 128, 128);
+}
+.name{
+    color:white ;
+}
+.about{
+    color:red;
+}
+.hello{
+
+    color:red; 
+}
+.introabout{
+    color:rgb(103, 103, 193) ; 
+}
+.introparagraph{
+    color:rgb(138, 180, 180);
+}
+.introskill h1 {
+    color:rgb(83, 130, 83); 
+}
+.skillone{
+    color:rgb(109, 70, 70) ; 
+}
+.skilltwo {
+    color:rgb(109, 70, 70) ; 
+}
+.skillthree{
+    color:rgb(109, 70, 70)  ; 
+}
+.skillfour{
+    color:rgb(109, 70, 70)  ; 
+}
+.skillfive {
+    color : rgb(109, 70, 70) ; 
+}
+.skillsix  {
+    color : rgb(109, 70, 70) ; 
+}
+.introproject  h2 {
+    color :rgb(192, 138, 69) ; 
+}
+.serviceheadingone{
+ 
+    font-family: 'Autour One', cursive;
+    font-size:23px ; 
+    color :#808080  ; 
+}
+.serviceparagraph{
+    color :white  ; 
+}
+.servicehedingone{
+    font-family: 'Autour One', cursive;
+    font-size:23px ; 
+    color:#808080   ; 
+}
+.servicecode p {
+    color:white; 
+}
+.contactform h1{
+    color :blue ; 
+}
+.form-lable{
+    color :greenyellow ; 
+}
+.form-check-label{
+    color :blue
+
+}
+
+
+
+
+
+.navbar{
+background-color: black;
+width:350px; 
+height:1000px; 
+font-family: 'Autour One', cursive;
+
+}
+.navbar nav{
+    padding: 25px;
+}
+.navbar nav li {
+    list-style: none;
+  
+    font-weight: 800;
+    font-size: 30px;
+    padding: 13px 0 ;
+    
+}
+
+.main{
+    padding:23px;
+    width:90vw; 
+    padding-top: 2px;
+}
+.container{
+     display: flex;
+}
+.timemachine{
+    display: flex;
+}
+.infocontainer{
+    /* background-color:orangered; */
+    height:58vh;
+    width:80vw ; 
+    margin :90px auto; 
+    margin: top 2px; 
+    display:flex; 
+    justify-content: space-around;
+}
+.pic img{
+width:58vh;
+    height:71vh;
+    
+    
+
+}
+.info{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    margin: 35px;
+    flex-direction: column;
+    
+}
+.hello{
+font-size: 60px;
+}
+.name{
+font-size: 45px;
+}
+.about{
+font-size: 35px;
+}
+.moreabout{
+
+    font-size:19px ;
+}
+.buttons button{
+    margin:0 3px;
+    background-color: lightskyblue;
+    border-radius: 22px;
+    padding:  9px 14px;
+    margin-top: 23px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    width:34px;
+    height: 52px;
+    width: 110px;
+}
+.buttons button:hover{
+    background-color: white  ;
+    color:lightblue ; 
+}
+.navbar nav li a {
+    
+    text-decoration: none;
+    
+    font-weight: 500;
+     
+
+    color: black;
+    color:rgba(47, 255, 50, 0.936);
+}
+ nav li a :hover{
+    background-color: red   ;
+    color:rgba(47, 255, 50, 0.936);
+    
+}
+.i:hover{
+
+color:blue; 
+}
+
+
+.contactform{
+    padding-top:130px ;
+
+    padding-left:43px ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contactform h1 {
+    font-family: Bebas;
+    size:130px ;
+    text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contactform div{
+    padding:10px
+}
+
+.form-text{
+    color: cadetblue;
+    font-size: 12px ;
+}
+.form-control{
+    font-size: 16px;
+    border-radius: 6px;
+    margin: 12px;
+    width:225px;
+    
+}
+form{
+    padding-top: 23px;
+}
+
+.mb-3{
+    display: flex;
+    flex-direction: column;
+}
+.contactbuttons{
+    padding: 0px;
+    margin: 31px;
+    background-color: lightskyblue;
+    font-size: 19px;
+    height: 36px;
+    width: 77px;
+    color:white; 
+    border-radius: 16px;} 
+    .contactbuttons:hover{
+        color:lightskyblue; 
+        background:white
+    }
+.blogmainheading{
+    text-align: center;
+    font-size: 72px;
+    padding: 23px; 
+    font-family: Bebas;
+    color: cornflowerblue
+}
+.headingsecond{
+    font-size: 28px;
+    margin:13px; 
+    font-family: Bebas;
+    color: olivedrab;
+}
+.headingthird{
+    margin:13px ;
+    font-size: 28px; 
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tajawal', sans-serif;
+    color: olivedrab;
+}
+.paragraphfirst{
+    margin:11px; 
+    font-family: 'Brush Script MT', cursive;
+    font-size: 25px;
+    color: darkslateblue;
+}
+.paragraphsecond{
+    font-family: 'Brush Script MT', cursive;
+    margin:11px; 
+    font-size: 25px;
+    color: darkslateblue;
+}
+.introabout{
+
+    font-family: myfont;
+    padding: 2px;
+    font-size: 41px;
+    margin: 22px;
+    margin-left:21px
+}
+.introparagraph{
+    margin: 14px;
+    font-size: 16px;
+    margin-left:21px;
+}
+.introskill h1{
+    font-family: myfont;
+
+    padding :4px ; 
+    font-size : 41px ; 
+    margin: 22px ; 
+    margin-left:21px
+
+}
+.introskills{
+    margin:14px;
+    margin-left:21px;
+}
+/* .introall{
+    background-color: black;
+    color: azure;
+} */
+.skillon{
+    height: 13px ; 
+    width:340px ; 
+    background-color: aquamarine;
+    border: 2px solid black;
+
+}
+.skillto{
+    height: 13px ; 
+    width:450px ; 
+    background-color: aquamarine;
+    border: 2px solid black;
+
+}
+.skillth{
+    height: 13px ; 
+    width:265px ; 
+    background-color: aquamarine;
+    border: 2px solid black ;
+
+}
+.skillfo{
+    height: 13px ; 
+    width:300px ; 
+    background-color: aquamarine;
+    border: 2px solid black ;
+
+}
+.skillfi{
+    height: 13px ; 
+    width:120px ; 
+    background-color: aquamarine;
+    border: 2px solid black;
+
+}
+.skillsi{
+    height: 13px ; 
+    width:100px ; 
+    background-color: aquamarine;
+    border: 2px solid  black ;
+
+}
+.introproject{
+    padding :4px ; 
+    font-size : 34px ; 
+    margin: 22px ; 
+
+}
+.introprofirst{
+    height :340px ; 
+    width:500px; 
+    background-color:cornflowerblue;
+}
+.navbarGo {
+    transform: translate(-443px , 0px );
+    position:absolute; 
+}
+@media(max-width :800px ){
+.pic img {display: none;
+
+}}
+.mainport{
+    display:flex;
+     font-size: 21px;
+     margin: 4px ;
+     padding:1px ; 
+     font-weight:900;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .protspelling{
+        color:yellow ; 
+
+    }
+    .lio{
+        color:red; 
+    }
+    .serviceheadingone{
+    
+
+        margin:22px ; 
+        text-align: center;
+    }
+.servicepra{
+    font-family:Roboto; 
+    }
+    .serviceparagraph{
+    
+       
+        font-family:Roboto ;
+        margin:22px ; 
+         
+    }
